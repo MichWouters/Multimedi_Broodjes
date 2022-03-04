@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multimedi_Broodjes", "Multimedi_Broodjes\Multimedi_Broodjes.csproj", "{89DCB5E5-A626-4EEB-BD7C-A9DF824C5D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multimedi_Broodjes.Data", "Multimedi_Broodjes.Data\Multimedi_Broodjes.Data.csproj", "{7D782B3C-D5ED-45A6-BF4B-09832C702FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DCB5E5-A626-4EEB-BD7C-A9DF824C5D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DCB5E5-A626-4EEB-BD7C-A9DF824C5D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DCB5E5-A626-4EEB-BD7C-A9DF824C5D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DCB5E5-A626-4EEB-BD7C-A9DF824C5D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D782B3C-D5ED-45A6-BF4B-09832C702FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D782B3C-D5ED-45A6-BF4B-09832C702FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D782B3C-D5ED-45A6-BF4B-09832C702FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D782B3C-D5ED-45A6-BF4B-09832C702FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD7868B-7AA6-45B6-B11B-C2B34A3DDA03}
+	EndGlobalSection
+EndGlobal
